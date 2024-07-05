@@ -1,0 +1,21 @@
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.ico
+*.svg
+
+# Ignore image files in the images directory
+/images/*.jpg
+/images/*.jpeg
+/images/*.png
+/images/*.gif
+/images/*.bmp
+/images/*.tiff
+/images/*.tif
+/images/*.ico
+/images/*.svg
